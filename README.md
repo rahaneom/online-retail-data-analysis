@@ -1,6 +1,6 @@
 # 🛍️ Online Retail Data Analysis
 
-A high-performance data analysis project built on **Google Colab** to explore, clean, and analyze large-scale online retail datasets. This project uses **Pandas**, **FireDucks**, and **RFM Analysis** to handle over **32 million transactions** and extract deep insights about customer behavior.
+A high-performance data analysis project built on **Google Colab** to explore, clean, and analyze large-scale online retail datasets. This project uses **Pandas** and **FireDucks** to handle more than **30 million transactions** and extract deep insights about customer behavior.
 
 ---
 
