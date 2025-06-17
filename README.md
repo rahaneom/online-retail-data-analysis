@@ -1,6 +1,6 @@
 # 🛍️ Online Retail Data Analysis
 
-A high-performance data analysis project built on **Google Colab** to explore, clean, and analyze large-scale online retail datasets. This project uses **Pandas** and **FireDucks** to handle more than **30 million transactions** and extract deep insights about customer behavior.
+A high-performance data analysis project built on **Google Colab** to explore, clean, and analyze large-scale online retail datasets. This project uses **Pandas** to handle more than **30 million transactions** and extract deep insights about customer behavior.
 
 ---
 
@@ -9,14 +9,14 @@ A high-performance data analysis project built on **Google Colab** to explore, c
 This project performs large-scale **retail sales data analysis** with enhanced speed and customer-focused analytics.
 
 Key highlights:
-- 🧠 **RFM Analysis** (Recency, Frequency, Monetary) for customer segmentation.
-- ⚡ Boosted performance using **FireDucks** (a fast Pandas alternative).
-- 📈 Visual exploration of trends, customer patterns, and top-selling products.
-- 💡 Built entirely on **Google Colab** – no local setup required!
+- **RFM Analysis** (Recency, Frequency, Monetary) for customer segmentation.
+- Boosted performance using **FireDucks** (a fast Pandas alternative).
+- Visual exploration of trends, customer patterns, and top-selling products.
+- Built entirely on **Google Colab** – no local setup required!
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset used is the **Online Retail Dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail).
 
@@ -27,12 +27,12 @@ The dataset used is the **Online Retail Dataset** from the [UCI Machine Learning
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 > **No local setup required!** Simply open the notebook in Google Colab and run it step-by-step.
 
 1. **Open the notebook**  
-   👉 [Launch in Google Colab](https://colab.research.google.com/github/rahaneom/online-retail-data-analysis/blob/master/onlineretail.ipynb)
+   [Launch in Google Colab](https://colab.research.google.com/github/rahaneom/online-retail-data-analysis/blob/master/onlineretail.ipynb)
 
 2. **Connect to Runtime**
 
