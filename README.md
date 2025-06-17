@@ -1,10 +1,10 @@
-# 🛍️ Online Retail Data Analysis
+# Online Retail Data Analysis
 
 A high-performance data analysis project built on **Google Colab** to explore, clean, and analyze large-scale online retail datasets. This project uses **Pandas** to handle more than **30 million transactions** and extract deep insights about customer behavior.
 
 ---
 
-## 📊 Overview
+## Overview
 
 This project performs large-scale **retail sales data analysis** with enhanced speed and customer-focused analytics.
 
@@ -23,7 +23,7 @@ The dataset used is the **Online Retail Dataset** from the [UCI Machine Learning
 - Real-world retail transactions
 - Extended/simulated for ~32 million records in this project
 
-👉 [Access the dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
+[Access the dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 
 ---
 
