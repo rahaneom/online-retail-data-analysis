@@ -32,7 +32,7 @@ The dataset used is the **Online Retail Dataset** from the [UCI Machine Learning
 > **No local setup required!** Simply open the notebook in Google Colab and run it step-by-step.
 
 1. **Open the notebook**  
-   [Launch in Google Colab](https://colab.research.google.com/github/rahaneom/online-retail-data-analysis/blob/master/onlineretail.ipynb)
+   [Launch in Google Colab](https://colab.research.google.com/drive/1yf0xJf5bt0Le8UuCLuoRhf0m2m3jsFcV#scrollTo=zKiYvXlf6HDo)
 
 2. **Connect to Runtime**
 
